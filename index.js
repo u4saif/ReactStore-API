@@ -5,6 +5,7 @@ var cors = require('cors')
 
 const products= require('./routes/allproducts'); 
 const cart = require('./routes/cart');
+const PORT = process.env.PORT || 5000;
 app.use(cors())
 app.use(bodyParser.json())
 app.get("/api",(req,res)=>{
@@ -17,6 +18,6 @@ app.get("/api",(req,res)=>{
 app.use('/api/products',products);
 app.use('/api/cart',cart);
 
-app.listen('5000',()=>{
-    console.log("server started at port 5000");
+app.listen(PORT,()=>{
+    console.log("server started at port 5000", PORT);
 })
