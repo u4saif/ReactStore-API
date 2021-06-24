@@ -29,3 +29,17 @@ Post Request:- /api/cart
     id:[1,2,3]
 }
 ```
+
+### It is running live on Heroku Server 
+API Links are 
+
+```
+GET: 
+https://prodbysaif.herokuapp.com/api/products/
+https://prodbysaif.herokuapp.com/api/products/1
+
+```
+```
+POST :
+ https://prodbysaif.herokuapp.com/api/cart
+ ```
