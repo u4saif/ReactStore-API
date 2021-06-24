@@ -1,0 +1,79 @@
+[
+  {
+    "name": "nike",
+    "id": 1,
+    "price": 320,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/1.png"
+  },
+  {
+    "name": "puma",
+    "id": 2,
+    "price": 520,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/2.png"
+  },
+  {
+    "name": "nike",
+    "id": 3,
+    "price": 120,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/3.png"
+  },
+  {
+    "name": "jimi chu",
+    "id": 4,
+    "price": 2920,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/4.png"
+  },
+  {
+    "name": "nike",
+    "id": 5,
+    "price": 320,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/5.png"
+  },
+  {
+    "name": "puma",
+    "id": 6,
+    "price": 520,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/6.png"
+  },
+  {
+    "name": "nike",
+    "id": 7,
+    "price": 120,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/7.png"
+  },
+  {
+    "name": "DDD chu",
+    "id": 8,
+    "price": 2920,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/8.png"
+  },
+  {
+    "name": "jimi chu",
+    "id": 9,
+    "price": 211,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/9.png"
+  },
+  {
+    "name": "Reboke",
+    "id": 10,
+    "price": 766,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/10.png"
+  },
+  {
+    "name": "chu",
+    "id": 11,
+    "price": 99,
+    "discription": "the most compertable shose you can imagin",
+    "imgUrl": "/assets/images/11.png"
+  }
+]
